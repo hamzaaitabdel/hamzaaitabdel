@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/fawazsiddiqi/fawazsiddiqi/raw/master/images/signbot.gif?raw=true" style="max-width:100%;"><h3 align="center">Android and JEE Developer</h3>
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/hamzaaitabdel/hamzaaitabdel/blob/main/signbot.gif"><img src="https://github.com/hamzaaitabdel/hamzaaitabdel/blob/main/signbot.gif?raw=true" style="max-width:100%;"></a>
+</p>
 
 - 🌱 I’m currently learning **Machine,Deep Learning**
 

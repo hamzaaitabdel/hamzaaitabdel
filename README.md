@@ -2,10 +2,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/hamzaaitabdel/hamzaaitabdel/blob/main/signbot.gif"><img src="https://github.com/hamzaaitabdel/hamzaaitabdel/blob/main/signbot.gif?raw=true" style="max-width:100%;"></a>
 </p>
 <h3 align="center">Android and JEE Developer</h3>
+- 🔭 I’m currently working as **Freelancer(android developer)**
 
 - 🌱 I’m currently learning **Machine,Deep Learning**
 
-- 👯 I’m looking to collaborate on **android developpement(Contact me if you are interested))**
+- 👯 I’m looking to collaborate on **android developement(Contact me if you are interested))**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzaaitabdel](https://github.com/hamzaaitabdel)
 

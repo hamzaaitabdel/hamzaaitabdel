@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine,Deep Learning**
 
-- 👯 I’m looking to collaborate on **android developpement(Contact me if you are umterested))**
+- 👯 I’m looking to collaborate on **android developpement(Contact me if you are interested))**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzaaitabdel](https://github.com/hamzaaitabdel)
 
